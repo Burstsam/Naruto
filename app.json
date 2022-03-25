@@ -228,15 +228,15 @@
       "ARQ_API_KEY": {
          "description": "Start this boat https://t.me/ARQRobot. Get the key ",
          "required": true,
-         "value": ""
+         "value": "GUMZXF-LKDMYG-IZEXZV-PEMWIP-ARQ"
       },         
       "REM_BG_API_KEY": {
          "description": "Go to this site https://www.remove.bg/api#remove-background. Get your api key",
          "required": true,
-         "value": ""
+         "value": "x6NRU8yANkvXVCVmFTHidMMv"
       },
       "GENIUS_API_TOKEN": {
-         "description": "Go to this site https://docs.genius.com/. Get your api token",
+         "description": "Go to this site https Get your api token",
          "required": false,
          "value": ""         
       }
